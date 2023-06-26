@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author poude
+ *
+ */
+module EclipsProject {
+}
